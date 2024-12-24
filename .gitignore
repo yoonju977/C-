@@ -188,6 +188,7 @@ cython_debug/
 # Byte-compiled / optimized / DLL files
 
 # C extensions
+.vscode
 
 # Distribution / packaging
 
